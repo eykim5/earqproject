@@ -1,3 +1,26 @@
-.basics {
-    color: red;
+.mainBox {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.topBox {
+    display: flex;
+    height: 75vh;
+}
+
+.leftBox {
+    background-color: red;
+    width: 50vw;
+}
+
+.rightBox {
+    background-color: blue;
+    width: 50vw;
+}
+
+.botBox {
+    background-color: gray;
+    height: 25vh;
 }
