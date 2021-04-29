@@ -11,16 +11,51 @@
 }
 
 .leftBox {
-    background-color: red;
+    background-color: white;
     width: 50vw;
 }
 
 .rightBox {
-    background-color: blue;
+    background-image: url('earpic.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     width: 50vw;
 }
 
 .botBox {
-    background-color: gray;
+    background-color: #19191A;
     height: 25vh;
+}
+
+.offerHead {
+    font-size: 48px;
+    font-weight: bolder;
+    margin: 5% 15%;
+}
+
+.offerText {
+    font-size: 20px;
+    margin: 0 15%;
+}
+
+.offerButton {
+    font-size: 20px;
+    margin: 5% 15%;
+    padding: 11.2px 28px 14px;
+    width: 25%;
+    text-align: center;
+    color: white;
+    background-color: #C6168C;
+}
+
+.offerButton:hover {
+    background-color:#EA53B9;
+}
+
+.logoImg {
+    margin: 5% 15%;
+}
+
+img {
+    height: 40px;
 }
