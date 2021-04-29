@@ -20,7 +20,6 @@ class Splash extends React.Component {
                     </div>
                 </div>
                 <div className = "botBox">
-                    <div>Hello World</div>
                 </div>
             </div>
         )

@@ -3,23 +3,23 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
 }
 
 .topBox {
     display: flex;
-    height: 75%;
+    justify-content: space-between;
 }
 
 .leftBox {
     background-color: white;
-    width: 60vw;
+    width: 65vw;
 }
 
 .rightBox {
     background-image: url('oticonmoreblack.png');
     background-repeat: no-repeat;
-    padding: 10% 0%;
-    width: 40vw;
+    width: 35vw;
 }
 
 .botBox {
@@ -28,10 +28,10 @@
 }
 
 .offerHead {
-    font-size: 60px;
+    font-size: 3rem;
     font-weight: bolder;
     line-height: 1.2;
-    margin: 0% 15%;
+    margin: 0% 15% 0% 15%;
 }
 
 .offerLine {
@@ -41,13 +41,13 @@
 }
 
 .offerText {
-    font-size: 20px;
-    margin: 0 15%;
+    font-size: 1.25em;
+    margin: 0 15% 0% 15%;
 }
 
 .offerButton {
-    font-size: 20px;
-    margin: 5% 15%;
+    font-size: 1.25em;
+    margin: 5% 15% 8% 15%;
     padding: 11.2px 28px 14px;
     width: 25%;
     text-align: center;
@@ -64,5 +64,33 @@
 }
 
 img {
-    height: 40px;
+    height: 2.5em;
 }
+
+@media only screen and (max-width: 1000px) {
+
+    img {
+        height: 1.75em;
+    }
+
+    .offerHead { 
+       font-size: 2em; 
+    }
+
+    .offerLine {
+        font-size: 18px;
+    }
+
+    .offerText {
+        font-size: 1em;
+    }
+
+    .offerButton {
+        font-size: 1em;
+        padding: 8px 24px 10px;
+    }
+    
+    .rightBox {
+        opacity: 0%;
+    }
+ }
