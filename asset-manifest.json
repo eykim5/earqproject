@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/earqproject/static/css/main.d3361b88.chunk.css",
+    "main.css": "/earqproject/static/css/main.3eeb12d3.chunk.css",
     "main.js": "/earqproject/static/js/main.23471199.chunk.js",
     "main.js.map": "/earqproject/static/js/main.23471199.chunk.js.map",
     "runtime-main.js": "/earqproject/static/js/runtime-main.84f355ab.js",
@@ -10,14 +10,14 @@
     "static/js/3.8e272d7c.chunk.js": "/earqproject/static/js/3.8e272d7c.chunk.js",
     "static/js/3.8e272d7c.chunk.js.map": "/earqproject/static/js/3.8e272d7c.chunk.js.map",
     "index.html": "/earqproject/index.html",
-    "static/css/main.d3361b88.chunk.css.map": "/earqproject/static/css/main.d3361b88.chunk.css.map",
+    "static/css/main.3eeb12d3.chunk.css.map": "/earqproject/static/css/main.3eeb12d3.chunk.css.map",
     "static/js/2.091300f4.chunk.js.LICENSE.txt": "/earqproject/static/js/2.091300f4.chunk.js.LICENSE.txt",
     "static/media/splash.css": "/earqproject/static/media/oticonmoreblack.59d045c1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.84f355ab.js",
     "static/js/2.091300f4.chunk.js",
-    "static/css/main.d3361b88.chunk.css",
+    "static/css/main.3eeb12d3.chunk.css",
     "static/js/main.23471199.chunk.js"
   ]
 }
