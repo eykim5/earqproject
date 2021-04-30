@@ -71,7 +71,16 @@ img {
     height: 3em;
 }
 
-.footerCol {
+.footerColLeft {
+    justify-content: space-between;
+    margin: 2% 3%;
+    width: 33vw;
+}
+
+.footerColRight {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     margin: 2% 3%;
     width: 33vw;
 }

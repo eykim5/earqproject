@@ -20,22 +20,27 @@ class Splash extends React.Component {
                     </div>
                 </div>
                 <div className = "botBox">
-                    <div className = "footerCol">
+                    <div className = "footerColLeft">
                         <div className = "footerHead">Built by Edward Kim</div>
                         <div className = "footerText">edwardkim93017@gmail.com</div>
                         <div className = "footerText">(845)-664-1797</div>
                         <div className = "footerText"></div>
                     </div>
-                    <div className = "footerCol">
+                    <div className = "footerColLeft">
                         <div className = "footerHead">Contact Oticon</div>
                         <div className = "footerText">support@oticon.com</div>
                         <div className = "footerText">(855)-400-9766</div>
                         <div className = "footerText"></div>
                     </div>
-                    <div className = "footerCol">
+                    <div className = "footerColRight">
                         <div className = "footerHead">Need more help?</div>
                         <div className = "footerBody">Get a hearing test, receive help and advice, and buy accessories, spare parts, and cleaning tools from authorized Oticon hearing care professionals.</div>
                         <div className = "footerButton">Locate Hearing Center</div>
+                    </div>
+                    <div className = "footerColRight">
+                        <div className = "footerHead">Download Center</div>
+                        <div className = "footerBody">Find videos and instructions on how to use all Oticon hearing aids and accessories.</div>
+                        <div className = "footerButton">Visit Download Center</div>
                     </div>
                 </div>
             </div>
