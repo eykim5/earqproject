@@ -9,6 +9,7 @@
 .topBox {
     display: flex;
     justify-content: space-between;
+    height: 600px;
 }
 
 .leftBox {
@@ -23,8 +24,10 @@
 }
 
 .botBox {
+    display: flex;
+    flex-direction: row;
     background-color: #19191A;
-    height: 25%;
+    padding: 0% 7%;
 }
 
 .offerHead {
@@ -53,6 +56,7 @@
     text-align: center;
     color: white;
     background-color: #C6168C;
+    border-radius: 6px;
 }
 
 .offerButton:hover {
@@ -64,7 +68,49 @@
 }
 
 img {
-    height: 2.5em;
+    height: 3em;
+}
+
+.footerCol {
+    margin: 2% 3%;
+    width: 33vw;
+}
+
+.footerHead {
+    color: #B7B3AC;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 5%;
+}
+
+.footerText {
+    color: #B7B3AC;
+    font-size: 14px;
+    font-weight: bold;
+    border-top: 1px solid #3b3c3d;
+    padding: .6em 0 .6em;
+}
+
+.footerBody {
+    color: #B7B3AC;
+    font-size: 14px;
+    border-left: 2px solid #c6168d;
+    padding-left: 1em;
+}
+
+.footerButton {
+    margin: 5% 0%;
+    padding: 12.8px 32px 16px;
+    text-align: center;
+    color: white;
+    background-color: #C6168C;
+    border: 4px solid #C6168C;
+    width: 75%;
+    border-radius: 6px;
+}
+
+.footerButton:hover {
+    border: 4px solid white;
 }
 
 @media only screen and (max-width: 1000px) {
