@@ -61,6 +61,7 @@
 
 .offerButton:hover {
     background-color:#EA53B9;
+    cursor: pointer;
 }
 
 .logoImg {
@@ -120,6 +121,7 @@ img {
 
 .footerButton:hover {
     border: 4px solid white;
+    cursor: pointer;
 }
 
 @media only screen and (max-width: 1000px) {
