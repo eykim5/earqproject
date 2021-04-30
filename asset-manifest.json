@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.51255bfc.chunk.css",
-    "main.js": "/static/js/main.23471199.chunk.js",
-    "main.js.map": "/static/js/main.23471199.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.be2079ff.js",
-    "runtime-main.js.map": "/static/js/runtime-main.be2079ff.js.map",
-    "static/js/2.091300f4.chunk.js": "/static/js/2.091300f4.chunk.js",
-    "static/js/2.091300f4.chunk.js.map": "/static/js/2.091300f4.chunk.js.map",
-    "static/js/3.8e272d7c.chunk.js": "/static/js/3.8e272d7c.chunk.js",
-    "static/js/3.8e272d7c.chunk.js.map": "/static/js/3.8e272d7c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.51255bfc.chunk.css.map": "/static/css/main.51255bfc.chunk.css.map",
-    "static/js/2.091300f4.chunk.js.LICENSE.txt": "/static/js/2.091300f4.chunk.js.LICENSE.txt",
-    "static/media/splash.css": "/static/media/oticonmoreblack.59d045c1.png"
+    "main.css": "/earqproject/static/css/main.d3361b88.chunk.css",
+    "main.js": "/earqproject/static/js/main.23471199.chunk.js",
+    "main.js.map": "/earqproject/static/js/main.23471199.chunk.js.map",
+    "runtime-main.js": "/earqproject/static/js/runtime-main.84f355ab.js",
+    "runtime-main.js.map": "/earqproject/static/js/runtime-main.84f355ab.js.map",
+    "static/js/2.091300f4.chunk.js": "/earqproject/static/js/2.091300f4.chunk.js",
+    "static/js/2.091300f4.chunk.js.map": "/earqproject/static/js/2.091300f4.chunk.js.map",
+    "static/js/3.8e272d7c.chunk.js": "/earqproject/static/js/3.8e272d7c.chunk.js",
+    "static/js/3.8e272d7c.chunk.js.map": "/earqproject/static/js/3.8e272d7c.chunk.js.map",
+    "index.html": "/earqproject/index.html",
+    "static/css/main.d3361b88.chunk.css.map": "/earqproject/static/css/main.d3361b88.chunk.css.map",
+    "static/js/2.091300f4.chunk.js.LICENSE.txt": "/earqproject/static/js/2.091300f4.chunk.js.LICENSE.txt",
+    "static/media/splash.css": "/earqproject/static/media/oticonmoreblack.59d045c1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.be2079ff.js",
+    "static/js/runtime-main.84f355ab.js",
     "static/js/2.091300f4.chunk.js",
-    "static/css/main.51255bfc.chunk.css",
+    "static/css/main.d3361b88.chunk.css",
     "static/js/main.23471199.chunk.js"
   ]
 }
